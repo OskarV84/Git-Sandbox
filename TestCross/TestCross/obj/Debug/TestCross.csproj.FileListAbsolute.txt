@@ -1,0 +1,7 @@
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\bin\Debug\TestCross.exe.config
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\bin\Debug\TestCross.exe
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\bin\Debug\TestCross.pdb
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debug\TestCross.csprojAssemblyReference.cache
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debug\TestCross.csproj.CoreCompileInputs.cache
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debug\TestCross.exe
+C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debug\TestCross.pdb
