@@ -13,6 +13,8 @@ namespace TestCross
         {
 
             /// Git test project
+            Console.WriteLine("ASP joined the project");
+
 
 
             /// Simpsons Rule

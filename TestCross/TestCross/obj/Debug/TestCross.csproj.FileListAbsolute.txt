@@ -8,3 +8,13 @@ C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debu
 C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\bin\Debug\MathNet.Numerics.dll
 C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\bin\Debug\MathNet.Numerics.xml
 C:\Users\oskar\OneDrive - Ramboll\Repos\Git-Sandbox\TestCross\TestCross\obj\Debug\TestCross.csproj.CopyComplete
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\bin\Debug\TestCross.exe.config
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\bin\Debug\TestCross.exe
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\bin\Debug\TestCross.pdb
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\bin\Debug\MathNet.Numerics.dll
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\bin\Debug\MathNet.Numerics.xml
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\obj\Debug\TestCross.csprojAssemblyReference.cache
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\obj\Debug\TestCross.csproj.CoreCompileInputs.cache
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\obj\Debug\TestCross.csproj.CopyComplete
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\obj\Debug\TestCross.exe
+C:\Users\ASP\Desktop\CLONE FIL\TestCross\TestCross\obj\Debug\TestCross.pdb
